@@ -23,4 +23,29 @@ frameborder="0"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
 
+
+## Why Ilab?
+We’ve already talked a little bit about the Ilab philosophy and what sets it apart from other LLM technologies. But let’s talk about why Instructlab?
+Let’s take a look at the InstructLab overview:
+```
+Contribution to LLMs is not possible directly. They show up as forks, which forces consumers to choose a “best-fit” model that isn’t easily extensible. Also, the forks are expensive for model creators to maintain.
+The ability to contribute ideas is limited by a lack of AI/ML expertise. One has to learn how to fork, train, and refine models to see their idea move forward. This is a high barrier to entry.
+There is no direct community governance or best practice around review, curation, and distribution of forked models.
+InstructLab is here to solve these problems… 
+
+InstructLab's model-agnostic technology gives model upstreams with sufficient infrastructure resources the ability to create regular builds of their open source licensed models not by rebuilding and retraining the entire model but by composing new skills into it.
+```
+
+As you can see, InstructLab differs from other LLM because it offers you a sense of control in your LLM, and you can custom fit it to suit your needs, 
+
+
+##This Book’s Purpose
+
+This book aims to provide guidance and documentation for anyone looking to use the InstructLab tool, explain the design and philosophy of the tool, in hopes of making the open source tool more accessible to anyone interested. It assumes you have some experience with the command line, but when regarding knowledge contributions, no previous engineering experience. However, InstructLab will have a UI come out soon, making the tool even more accessible. This book was made with another open source tool, the Open Education Project, which uses open source technology to help open source education and create open source textbooks and software for the classroom. You can read more about the project here. But due to the open source nature of this book, you can make a pull request and add information or helpful notes about your experience using InstructLab!
+
+##Getting Involved
+If you’re interested in getting involved with InstructLab, or have any questions about the tooling, we have both community meetings where you can meet the project maintainers and collaborators as well as office hours. Anyone is welcome to join. You can check out the meeting schedule here. Or if you’re interested in contributing to the knowledge taxonomy, UI, or InstructLab itself, or the command line tool, check out our contributor guide.
+
+##Final Mentions
+
 <!-- #endregion -->
