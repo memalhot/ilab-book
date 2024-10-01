@@ -1,0 +1,9 @@
+format: jb-book
+root: ilab_intro
+parts:
+- caption: 'Part 1'
+  numbered: true
+  chapters:
+  - file: dummy_part/chapter
+    sections: 
+    - file: dummy_part/section
