@@ -17,12 +17,11 @@ This book’s main intention is to walk you through using instructlab and how to
 If you want a more extensive overview of the training process, you can read more about it in the paper that explains the use of synthetic data for instruction tuning, here: LAB: Large-Scale Alignment for ChatBots.
 
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=SkXgG6ksKTA" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
-
+<div align="left">
+      <a href="https://www.youtube.com/watch?v=SkXgG6ksKTA">
+         <img src="https://www.youtube.com/watch?v=SkXgG6ksKTA/0.jpg" style="width:100%;">
+      </a>
+</div>
 
 ## Why Ilab?
 We’ve already talked a little bit about the Ilab philosophy and what sets it apart from other LLM technologies. But let’s talk about why Instructlab?
@@ -39,13 +38,13 @@ InstructLab's model-agnostic technology gives model upstreams with sufficient in
 As you can see, InstructLab differs from other LLM because it offers you a sense of control in your LLM, and you can custom fit it to suit your needs, 
 
 
-##This Book’s Purpose
+## This Book’s Purpose
 
 This book aims to provide guidance and documentation for anyone looking to use the InstructLab tool, explain the design and philosophy of the tool, in hopes of making the open source tool more accessible to anyone interested. It assumes you have some experience with the command line, but when regarding knowledge contributions, no previous engineering experience. However, InstructLab will have a UI come out soon, making the tool even more accessible. This book was made with another open source tool, the Open Education Project, which uses open source technology to help open source education and create open source textbooks and software for the classroom. You can read more about the project here. But due to the open source nature of this book, you can make a pull request and add information or helpful notes about your experience using InstructLab!
 
-##Getting Involved
+## Getting Involved
 If you’re interested in getting involved with InstructLab, or have any questions about the tooling, we have both community meetings where you can meet the project maintainers and collaborators as well as office hours. Anyone is welcome to join. You can check out the meeting schedule here. Or if you’re interested in contributing to the knowledge taxonomy, UI, or InstructLab itself, or the command line tool, check out our contributor guide.
 
-##Final Mentions
+## Final Mentions
 
 <!-- #endregion -->
