@@ -1,9 +1,7 @@
 format: jb-book
 root: ilab_intro
 parts:
-- caption: 'Part 1'
+- caption: 'Taxonomy in InstructLab'
   numbered: true
   chapters:
-  - file: dummy_part/chapter
-    sections: 
-    - file: dummy_part/section
+  - file: chap/chapter
